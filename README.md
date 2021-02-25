@@ -1,0 +1,2 @@
+# NashEquilibrium
+ Assignment of GTIA
